@@ -23,9 +23,9 @@ client3 = AzureOpenAI(
     api_version="2024-12-01-preview"
 )
 
-pn = Pinecone(api_key="pcsk_2XdgXm_PMkAVtoNK8CGW68Z3FyHC3EUYfp7sG42Pa4uzsgJtzGpRhZu6ng8qNumDANyMbT")
+# pn = Pinecone(api_key="pcsk_2XdgXm_PMkAVtoNK8CGW68Z3FyHC3EUYfp7sG42Pa4uzsgJtzGpRhZu6ng8qNumDANyMbT")
 
-index = pn.Index()
+# index = pn.Index()
 
 # AI Functions Start
 
